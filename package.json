@@ -1,0 +1,19 @@
+{
+  "name": "mixins",
+  "version": "1.0.0",
+  "description": "Some mixins that i use in css pre-processors ",
+  "main": "''",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brunoti/mixins.git"
+  },
+  "author": "Bruno Oliveira <bruno.oliveirati1@gmail.com> (https://github.com/brunoti)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/brunoti/mixins/issues"
+  },
+  "homepage": "https://github.com/brunoti/mixins#readme"
+}
