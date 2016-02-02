@@ -1,0 +1,11 @@
+.active-buttons(@background, @color: #FFF, @element: a) {
+  @{element} {
+    &:hover,
+    &:focus,
+    &:active,
+    &.active {
+      color: @color;
+      background: @background;
+    }
+  }
+}
